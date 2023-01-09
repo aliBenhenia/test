@@ -1,0 +1,11 @@
+.cart
+{
+  padding: 32px;
+  color: #fff;
+  background-color: #31b572;
+  ::selection
+  {
+    background-color: #fff;
+    color: red;
+  }
+}
